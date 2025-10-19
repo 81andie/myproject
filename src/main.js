@@ -34,12 +34,12 @@ document.querySelector('#app').innerHTML = `
   <div class="bg-[url(/business-office.jpg)] bg-[#1a1a1a] bg-cover bg-center h-screen flex flex-col justify-center">
 
     <!-- Nombre -->
-    <div class="h-16 rounded-sm flex flex-col text-center">
-      <h1 class="text-4xl p-1 mt-1 rounded-xl text-emerald-50 font-bold flex flex-col">Andrea Hernández</h1>
+    <div class="rounded-sm flex flex-col text-center">
+      <h1 class="text-2xl p-1 mt-1 rounded-xl text-emerald-50 font-bold flex flex-col">Andrea Hernández</h1>
     </div>
 
     <!-- Títulos -->
-    <h1 class="ml-2 mr-2 mt-12 text-2xl bg-white/15 p-2 rounded-xl text-violet-50 text-center">
+    <h1 class="ml-2 mr-2 mt-6 text-xl bg-white/15 p-2 rounded-xl text-violet-50 text-center">
       <strong>Programadora Web Frontend</strong>
     </h1>
     <h1 class="ml-2 mr-2 mt-1 text-xs p-1 rounded-xl text-emerald-50 text-center">
@@ -47,7 +47,7 @@ document.querySelector('#app').innerHTML = `
     </h1>
 
     <!-- Enlaces sociales -->
-    <div class="flex justify-center justify-items-center mt-2 mb-10">
+    <div class="flex justify-center justify-items-center mt-2 mb-5">
       <!-- TikTok, GitHub, LinkedIn -->
       <a href="https://www.tiktok.com/@fioripoeticblog?lang=es-419">
         <svg class="hover:scale-90 hover:border hover:rounded-full hover:border-white transition-discrete"
@@ -97,18 +97,18 @@ document.querySelector('#app').innerHTML = `
     </div>
 
     <!-- PORTFOLIO / Fiori Poetic Blog -->
-    <div class="mt-10">
-      <div class="pulsate-bck-normal ml-2 mr-2 mb-4 p-1 rounded-xl flex justify-center place-items-center mt-2 h-12 bg-slate-50/25">
+    <div class="mt-1">
+      <div class="pulsate-bck-normal ml-2 mr-2 mb-2 p-1 rounded-xl flex justify-center place-items-center mt-2 h-12 bg-slate-50/25">
         <img src="Screenshot_20251018_130052_TikTok.jpg" class="h-10 w-10 object-contain rounded-xl"/>
         <a href="https://81andie.github.io/my-portfolio/">
           <p class="text-2xl font-bold text-violet-100 text-center">PORTFOLIO</p>
         </a>
       </div>
 
-      <div class="scale-up-bottom-normal ml-2 mr-2 p-1 mb-20 rounded-xl flex justify-center place-items-center mt-2 h-12 bg-slate-50/25">
+      <div class="scale-up-bottom-normal ml-2 mr-2 p-1 mb-4 rounded-xl flex justify-center place-items-center mt-2 h-12 bg-slate-50/45">
         <img src="Galaxy-Fold2-localhost (8).png" class="h-10 w-10 rounded-xl object-contain"/>
         <a href="https://fiori-jxm6.vercel.app/#/inicio">
-          <p class="text-2xl font-bold text-violet-100 text-center">Fiori Poetic Blog</p>
+          <p class="text-2xl font-bold text-violet-850 text-center">Fiori Poetic Blog</p>
         </a>
       </div>
     </div>
@@ -116,7 +116,7 @@ document.querySelector('#app').innerHTML = `
 
   <!-- Footer -->
   <div class="p-1 bottom-0 text-violet-950 bg-violet-100 text-xs text-md font-thin flex text-center flex-col justify-center justify-items-center">
-    <span class="mt-2">Esta web ha sido diseñada y desarrollada por:<br> <strong>Andrea Hernández</strong></span><br>
+    <span class="mt-1">Esta web ha sido diseñada y desarrollada por:<br> <strong>Andrea Hernández</strong></span>
     <span>Todos los derechos reservados<br> Copyright © 2025</span>
   </div>
 `
