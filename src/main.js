@@ -5,7 +5,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
-  <div class="bg-[url(/business-office.jpg)]  bg-cover bg-center h-screen  flex flex-col justify-center ">
+  <div class="bg-[url(/business-office.jpg)] bg-[#1a1a1a] bg-cover bg-center h-screen  flex flex-col justify-center ">
   <div class="h-16 rounded-sm flex flex-col text-center">
     <h1 class="text-4xl p-1  mt-1  rounded-xl text-emerald-50 font-bold flex flex-col">Andrea Hernández</h1>
   </div>
