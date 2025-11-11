@@ -1,0 +1,18 @@
+{
+  "title": {
+    "es": "Programadora Web Frontend",
+    "ca": "Programadora Web Frontend",
+    "en": "Frontend Web Developer"
+  },
+  "education": {
+    "es": "Licenciada en Pedagogía General de la Música\\nConservatorio Superior del Liceo",
+    "ca": "Llicenciada en Pedagogia General de la Música\\nConservatori Superior del Liceu",
+    "en": "Degree in General Music Pedagogy\\nLiceu Superior Conservatory"
+  },
+  "visits": {
+    "label": { "es": "Visitas", "ca": "Visites", "en": "Visits" },
+    "total": { "es": "Total", "ca": "Total", "en": "Total" },
+    "today": { "es": "Hoy", "ca": "Avui", "en": "Today" },
+    "week": { "es": "Semana", "ca": "Setmana", "en": "Week" }
+  }
+}
